@@ -34,6 +34,5 @@ function convertToRoman(numToConvert) {
   // Return `convertToRoman` result
   return result;
 }
-
 // Test
 convertToRoman(36);
