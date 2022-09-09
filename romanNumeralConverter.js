@@ -31,7 +31,7 @@ function convertToRoman(numToConvert) {
       numToConvert -= number;
     }
   });
-  // Return the result of `convertToRoman`
+  // Return `convertToRoman` result
   return result;
 }
 
